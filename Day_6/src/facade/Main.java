@@ -1,6 +1,6 @@
-import facade.OrderFacade;
-import model.Chef;
-import model.Waiter;
+package facade;
+import facade.model.Chef;
+import facade.model.Waiter;
 
 public class Main {
 
@@ -14,7 +14,4 @@ public class Main {
 		
 		orderFacade.order();
 	}
-	
-	
-
 }

@@ -1,4 +1,4 @@
-package model;
+package facade.model;
 
 public class Chef {
 	public void getOrder() {

@@ -1,4 +1,4 @@
-package model;
+package facade.model;
 
 public class Waiter {
 	public void getOrder() {

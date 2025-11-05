@@ -1,7 +1,7 @@
 package facade;
 
-import model.Chef;
-import model.Waiter;
+import facade.model.Chef;
+import facade.model.Waiter;
 
 public class OrderFacade {
 	private Chef chef;
